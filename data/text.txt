@@ -1,0 +1,4 @@
+{
+bin,{'assignment': [100, 90], 'test': [100, 80], 'lab-work': [80, 70]} 
+bi,{'assignment': [100, 90], 'test': [100, 70], 'lab-work': [80, 60]} 
+}
